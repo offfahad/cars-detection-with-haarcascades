@@ -1,2 +1,2 @@
-# Cars Detection With Haarcascade
+# Cars Detection With Haarcascade Classifier
 Cars Detection by Haar Cascades with OpenCV.
